@@ -1,6 +1,3 @@
 {
-    "want_plaintext_hover": true,
-    "source": [
-        "src"
-    ]
+    "update_compiler_tool": true
 }
